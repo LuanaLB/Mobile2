@@ -1,0 +1,54 @@
+{
+  "estudantes": [
+     {
+      "nome":"Ana",
+      "ano_nascimento": 1984,
+      "notas":{
+        "n1": 7,
+        "n2": 5,
+        "n3": 4,
+
+      }
+    },
+    {
+      "nome":"Juliana",
+      "ano_nascimento": 2000,
+      "notas":{
+        "n1": 9,
+        "n2": 8,
+        "n3": 9,
+
+      }
+    },
+    {
+      "nome":"Jhon",
+      "ano_nascimento": 1992,
+      "notas":{
+        "n1": 7,
+        "n2": 7,
+        "n3": 7,
+
+      }
+    },
+    {
+      "nome":"Jose",
+      "ano_nascimento": 1984,
+      "notas":{
+        "n1": 5,
+        "n2": 5,
+        "n3": 4,
+
+      }
+    },
+    {
+      "nome":"Joao",
+      "ano_nascimento": 1995,
+      "notas":{
+        "n1": 4,
+        "n2": 5,
+        "n3": 4,
+
+      }
+    }
+  ]
+}
